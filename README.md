@@ -21,3 +21,12 @@
 
 * [Mathematics of pinhole cameras](https://www.youtube.com/watch?v=Ed44liATsIs)
 * [Thin lens approximation](https://www.youtube.com/watch?v=oolZEgQict0)
+
+# Internet 101 อินเตอร์เน็ตทำงานอย่างไร เบื้องต้น
+
+* [Wires, cables, and WiFi](https://www.youtube.com/watch?v=iV-YqG70wbQ)
+* [IP addresses and DNS](https://www.youtube.com/watch?v=MwxMsaFFycg)
+* [Packet, routers, and reliability](https://www.youtube.com/watch?v=aD_yi5VjF78)
+* [HTTP and HTML](https://www.youtube.com/watch?v=1K64fWX5z4U)
+* [Encryption and public keys](https://www.youtube.com/watch?v=6-JjHa-qLPk)
+* [Cybersecurity and crime](https://www.youtube.com/watch?v=5k24We8pED8)
