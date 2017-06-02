@@ -5,6 +5,7 @@
 ส่วนใหญ่คลิปที่ผมแปลจะเกี่ยวกับคอมพิวเตอร์ แล้วก็คณิตศาสตร์ ม.ปลาย
 
 ผมจะแยกเป็นหมวดหมู่เป็นชุดไว้เพื่อให้ตามหาได้ง่ายขึ้นครับ
+หรือถ้าเนื้อหาอื่นๆก็เข้าไปดูได้ที่ http://khanacademythailand.org/ ครับ
 
 # Pixar in the box หมวด Visual Camera บทบรรยาย
 
@@ -21,6 +22,8 @@
 
 * [Mathematics of pinhole cameras](https://www.youtube.com/watch?v=Ed44liATsIs)
 * [Thin lens approximation](https://www.youtube.com/watch?v=oolZEgQict0)
+* [Simple lens law](https://www.youtube.com/watch?v=6enELX1OKXs)
+* [Out of focus objects](https://www.youtube.com/watch?v=-DEaFgE8CDA)
 
 # Internet 101 อินเตอร์เน็ตทำงานอย่างไร เบื้องต้น
 
@@ -30,3 +33,21 @@
 * [HTTP and HTML](https://www.youtube.com/watch?v=1K64fWX5z4U)
 * [Encryption and public keys](https://www.youtube.com/watch?v=6-JjHa-qLPk)
 * [Cybersecurity and crime](https://www.youtube.com/watch?v=5k24We8pED8)
+
+# SAT คณิตศาสตร์ พีชคณิต
+
+* [การแก้สมการเชิงเส้นและอสมการเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=EkBUTZe_SiM)
+* [การแก้สมการเชิงเส้นและอสมการเชิงเส้น - ตัวอย่างที่ยากขึ้น](https://www.youtube.com/watch?v=WcpvoJAT_as)
+* [การตีความฟังก์ชันเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=J6-w7njIpgA)
+* [การตีความฟังก์ชันเชิงเส้น - ตัวอย่างที่ยากขึ้น](https://www.youtube.com/watch?v=AqzpkyiL4s4)
+* [โจทย์ปัญหาเรื่องสมการเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=DhqHyHhibJw)
+* [โจทย์ปัญหาเรื่องอสมการเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=VTcPBF9dtKc)
+* [โจทย์ปัญหาเรื่องอสมการเชิงเส้น - ตัวอย่างที่ยากขึ้น](https://www.youtube.com/watch?v=XexVwvfOkrQ)
+* [การวาดกราฟสมการเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=DataCxJ5qcM)
+* [การวาดกราฟสมการเชิงเส้น - ตัวอย่างที่ยากขึ้น](https://www.youtube.com/watch?v=CAnqu40RSbs)
+* [โจทย์ปัญหาเรื่องฟังก์ชันเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=Tk2bxgNI8LY)
+* [โจทย์ปัญหาเรื่องฟังก์ชันเชิงเส้น - ตัวอย่างที่ยากขึ้น](https://www.youtube.com/watch?v=rLIM8iRmsOI)
+* [โจทย์ปัญหาเรื่องระบบอสมการเชิงเส้น - ตัวอย่างพื้นฐาน](https://www.youtube.com/watch?v=FjRyBJME0Qw)
+
+
+
